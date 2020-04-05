@@ -1,3 +1,3 @@
-module github.com/steineron/users-service
+module steineron.com/users-service
 
 go 1.14
