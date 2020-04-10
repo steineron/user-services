@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/steineron/users-serivce"
+	"github.com/steineron/users-service"
 )
 
 func main() {
