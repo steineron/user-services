@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(morestrings.ReverseRune("!oG, olleH"))
+	fmt.Println(morestrings.ReverseRunes("!oG, olleH"))
 }
