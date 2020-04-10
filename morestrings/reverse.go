@@ -7,3 +7,7 @@ func ReverseRunes(s string) string {
 	}
 	return string(r)
 }
+
+func Runes(s string) string {
+	return s
+}
