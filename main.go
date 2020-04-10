@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"morestrings"
+	"https://github.com/steineron/users-service/morestrings"
 )
 
 func main() {
